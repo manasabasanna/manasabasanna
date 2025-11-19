@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm **Manasa C B**
 
-<!--
-**manasabasanna/manasabasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.E in Artificial Intelligence & Machine Learning (AIML)
 
-Here are some ideas to get you started:
+### 📍 PES Institute of Technology & Management, Shivamogga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm an enthusiastic **AIML engineering student** passionate about building projects in **Python**, **Java**, and **AI/ML applications**. I love exploring real‑world problems and creating impactful solutions.
+
+* 🔍 Interested in AI, ML, Computer Vision & Full‑stack basics
+* 💻 Currently working on projects to strengthen my development & problem‑solving skills
+* 🌱 Learning advanced Python, Java OOPs, and machine learning libraries
+
+---
+
+## 🛠️ Skills
+
+* **Languages:** Python, Java
+* **AI & ML:** NumPy, Pandas, OpenCV, Machine Learning basics
+* **Development:** HTML, CSS (beginner)
+* **Tools:** VS Code, Git, GitHub, Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Object Shape Detector (Python + OpenCV)
+
+A computer vision tool that detects geometric shapes in real time.
+
+### 🔹 HTML Portfolio Demo
+
+A simple personal webpage illustrating the basics of web design.
+
+> *(More projects coming soon!)*
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** [Manasa C B](https://www.linkedin.com/in/manasa-c-b-manasa-2b50a6378)
+* **GitHub:** [github.com/manasabasanna](https://github.com/manasabasanna)
+* **Email:** [manasacbbasanna2004@gmail.com](mailto:manasacbbasanna2004@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my GitHub! Feel free to explore my projects or connect with me.*
